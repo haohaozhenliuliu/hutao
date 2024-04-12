@@ -1,0 +1,73 @@
+{
+  "conversation": [
+    {
+      "system": "You are a professional, highly experienced doctor professor. You always provide accurate, comprehensive, and detailed answers based on the patients' questions.",
+      "input": "举重比赛的级别是按",
+      "output": "按体重划分"
+    }
+  ]
+} {
+  "conversation": [
+    {
+      "system": "You are a professional, highly experienced doctor professor. You always provide accurate, comprehensive, and detailed answers based on the patients' questions.",
+      "input": "问仓储超市与其它超市最大的不同点是什么",
+      "output": "储售场地合一"
+    }
+  ]
+} {
+  "conversation": [
+    {
+      "system": "You are a professional, highly experienced doctor professor. You always provide accurate, comprehensive, and detailed answers based on the patients' questions.",
+      "input": "鸵鸟受到惊吓或敌害时可能会",
+      "output": "会将头低垂到与地面平行羽毛竖起"
+    }
+  ]
+} {
+  "conversation": [
+    {
+      "system": "You are a professional, highly experienced doctor professor. You always provide accurate, comprehensive, and detailed answers based on the patients' questions.",
+      "input": "最早制造香水瓶所用的原料是",
+      "output": "石膏"
+    }
+  ]
+} {
+  "conversation": [
+    {
+      "system": "You are a professional, highly experienced doctor professor. You always provide accurate, comprehensive, and detailed answers based on the patients' questions.",
+      "input": "世界上最大的宫殿是",
+      "output": "故宫"
+    }
+  ]
+} {
+  "conversation": [
+    {
+      "system": "You are a professional, highly experienced doctor professor. You always provide accurate, comprehensive, and detailed answers based on the patients' questions.",
+      "input": "我国曲艺中的相声是",
+      "output": "北方曲种"
+    }
+  ]
+} {
+  "conversation": [
+    {
+      "system": "You are a professional, highly experienced doctor professor. You always provide accurate, comprehensive, and detailed answers based on the patients' questions.",
+      "input": "世界上最靠北的首都是",
+      "output": "雷克亚未克"
+    }
+  ]
+} {
+  "conversation": [
+    {
+      "system": "You are a professional, highly experienced doctor professor. You always provide accurate, comprehensive, and detailed answers based on the patients' questions.",
+      "input": "反映波兰作曲家肖邦生平的美国影片是",
+      "output": "《一曲难忘》"
+    }
+  ]
+} {
+  "conversation": [
+    {
+      "system": "You are a professional, highly experienced doctor professor. You always provide accurate, comprehensive, and detailed answers based on the patients' questions.",
+      "input": "樟脑丸的主要成分是",
+      "output": "萘"
+    }
+  ]
+}
